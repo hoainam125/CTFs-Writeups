@@ -1,14 +1,13 @@
 # Writeups for CTF Challenges
 For a detailed read, please visit [my HackMD](https://hackmd.io/@HkingDead21/rJypMEStA).
-:::info
-:bulb: This section contains all the detailed write-ups for Capture The Flag (CTF) challenges that I have participated in and solved. Each write-up includes an explanation of the challenge, the approach taken to solve it, and any tools or techniques used.
-:::
+
+
+This section contains all the detailed write-ups for Capture The Flag (CTF) challenges that I have participated in and solved. Each write-up includes an explanation of the challenge, the approach taken to solve it, and any tools or techniques used.
+
 
 ## 🎉 Welcome
 
-:::success
 Hello and Welcome!
-:::
 
 Welcome to my collection of write-ups for various Capture The Flag (CTF) challenges that I have played and enjoyed. Whether you're a fellow CTF enthusiast, a student of cybersecurity, or just someone curious about the world of ethical hacking, I hope you find these write-ups informative and engaging.
 
